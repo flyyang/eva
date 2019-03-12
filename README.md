@@ -27,7 +27,7 @@ eva 的目的就是为了解决这些问题，它抽象了 js sdk 的 开发流�
 
 2. eva dev 开发调试
 
-![image](https://user-images.githubusercontent.com/39git12408/54226250-62d32280-4538-11e9-971f-9478d91244e0.png)
+![image](https://user-images.githubusercontent.com/3912408/54226250-62d32280-4538-11e9-971f-9478d91244e0.png)
 ![image](https://user-images.githubusercontent.com/3912408/54226352-9c0b9280-4538-11e9-8368-8ade51aa56c0.png)
 
 dev 条件下会起端口，打开在浏览器控制台可以看到输出到的全局变量。可以用来和 web 交互。
