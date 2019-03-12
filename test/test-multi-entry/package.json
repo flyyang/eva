@@ -1,0 +1,17 @@
+{
+  "name": "test-vue-component",
+  "version": "0.0.1",
+  "description": "eva init 模板。",
+  "main": "dist/test.min.js",
+  "module": "src/index.vue.js",
+  "dependencies": {
+    "vue": "^2.6.7",
+    "vue-template-compiler": "^2.6.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
