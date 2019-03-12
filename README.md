@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/flyyang/eva.svg?branch=master)](https://travis-ci.com/flyyang/eva)
+[![Build Status](https://travis-ci.org/flyyang/eva.svg?branch=master)](https://travis-ci.org/flyyang/eva)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## eva
 
