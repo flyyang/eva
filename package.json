@@ -1,6 +1,6 @@
 {
   "name": "eva-sdk",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "eva - simple sdk generator sdk",
   "main": "index.js",
   "bin": {
